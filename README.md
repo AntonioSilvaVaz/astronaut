@@ -5,8 +5,8 @@ Astronaut is a website that utilizes HTML, CSS, and JavaScript to teach users ab
 
 ## Screenshots
 
-![example 1](https://github.com/AntonioSilvaVaz/astronaut/assets/planets.png)
-![example 2](https://github.com/AntonioSilvaVaz/astronaut/assets/gif.gif)
+![example 1](https://github.com/AntonioSilvaVaz/astronaut/blob/main/assets/planets.png)
+![example 2](https://github.com/AntonioSilvaVaz/astronaut/blob/main/assets/gif.gif)
 
 
 ## Stack
