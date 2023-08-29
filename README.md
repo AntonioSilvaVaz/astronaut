@@ -1,7 +1,6 @@
 
 # Astronaut
-Astronaut is a website that utilizes HTML, CSS, and JavaScript to teach users about space in an interactive manner. Through its engaging content and interactive features, Astronaut aims to educate and inspire users about various space-related topics. It provides an immersive learning experience that combines text-based information, visual elements, and interactive elements to enhance understanding and engagement.
-
+"Astronaut" is a captivating website that harnesses the power of HTML, CSS, and JavaScript to offer users an interactive and educational journey through the cosmos. With its dynamic content and engaging features, Astronaut seeks to enlighten and spark curiosity in users about a wide array of space-related subjects. This platform delivers an immersive learning adventure that seamlessly integrates textual insights, visual components, and interactive elements, elevating comprehension and fostering engagement.
 
 ## Screenshots
 
